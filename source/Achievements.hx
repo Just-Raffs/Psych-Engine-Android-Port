@@ -11,22 +11,22 @@ using StringTools;
 
 class Achievements {
 	public static var achievementsStuff:Array<Dynamic> = [ //Name, Description, Achievement save tag, Hidden achievement
-		["Freaky on a Friday Night",	"Play on a Friday... Night.",						'friday_night_play',	 true],
-		["She Calls Me Daddy Too",		"Beat Week 1 on Hard with no Misses.",				'week1_nomiss',			false],
-		["No More Tricks",				"Beat Week 2 on Hard with no Misses.",				'week2_nomiss',			false],
-		["Call Me The Hitman",			"Beat Week 3 on Hard with no Misses.",				'week3_nomiss',			false],
-		["Lady Killer",					"Beat Week 4 on Hard with no Misses.",				'week4_nomiss',			false],
-		["Missless Christmas",			"Beat Week 5 on Hard with no Misses.",				'week5_nomiss',			false],
-		["Highscore!!",					"Beat Week 6 on Hard with no Misses.",				'week6_nomiss',			false],
-		["You'll Pay For That...",		"Beat Week 7 on Hard with no Misses.",				'week7_nomiss',			 true],
-		["What a Funkin' Disaster!",	"Complete a Song with a rating lower than 20%.",	'ur_bad',				false],
-		["Perfectionist",				"Complete a Song with a rating of 100%.",			'ur_good',				false],
-		["Roadkill Enthusiast",			"Watch the Henchmen die over 100 times.",			'roadkill_enthusiast',	false],
-		["Oversinging Much...?",		"Hold down a note for 20 seconds.",					'oversinging',			false],
-		["Hyperactive",					"Finish a Song without going Idle.",				'hype',					false],
-		["Just the Two of Us",			"Finish a Song pressing only two keys.",			'two_keys',				false],
-		["Toaster Gamer",				"Have you tried to run the game on a toaster?",		'toastie',				false],
-		["Debugger",					"Beat the \"Test\" Stage from the Chart Editor.",	'debugger',				 true]
+		["Fique louco numa noite de sexta",	"Jogue numa... Noite de sexta...",						'friday_night_play',	 true],
+		["Ela me chama de papai também",		"Complete a week 1 sem nenhum erro.",				'week1_nomiss',			false],
+		["Sem mais travessuras",				"Complete a week 2 sem nenhum erro.",				'week2_nomiss',			false],
+		["Me chame de hitman",			"Complete a week 3 sem nenhum erro.",				'week3_nomiss',			false],
+		["Miss Assassina",					"Complete a week 4 sem nenhum erro.",				'week4_nomiss',			false],
+		["Natal perdido",			"Complete a week 5 sem nenhum erro.",				'week5_nomiss',			false],
+		["Pontuação máxima!!",					"Complete a week 6 sem nenhum erro.",				'week6_nomiss',			false],
+		["Cê vai pagar...",		"Complete a week 7 sem nenhum erro.",				'week7_nomiss',			 true],
+		["Mais que evento desastroso!",	"Complete uma música com o rating inferior a 20%.",	'ur_bad',				false],
+		["Perfeccionista",				"Complete uma música com o rating de 100%.",			'ur_good',				false],
+		["Entusiasta de atropelamentos",			"Assista os Henchmen morrerem mais de 100 vezes.",			'roadkill_enthusiast',	false],
+		["Exagerando muito...?",		"Segure uma nota por 20 segundos.",					'oversinging',			false],
+		["Hiperativo",					"Completar uma música sem ir pra pose idle.",				'hype',					false],
+		["Só nós dois",			"Complete uma música apertando apenas duas keys.",			'two_keys',				false],
+		["O cara que joga numa torradeira",				"Já tentou rodar o jogo numa torradeira?",		'toastie',				false],
+		["HAKER MEN",					"Complete a música \"Test\" que é ativada pelo chart editor.",	'debugger',				 true]
 	];
 	public static var achievementsMap:Map<String, Bool> = new Map<String, Bool>();
 
