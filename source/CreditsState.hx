@@ -47,7 +47,7 @@ class CreditsState extends MusicBeatState
 
 		var pisspoop = [ //Name - Icon name - Description - Link - BG Color
 			['Projeto Sextou Android Port'],
-			['Just Raffs',		    'justraffs',		    'O cara que portou o Projeto Sextou sem ser da equipe',	https://youtube.com/channel/UCKJjOf8C5-J6cdRowfXHu-Q',	'0xFFC30085'],
+			['Just Raffs',		    'justraffs',		    'O cara que portou o Projeto Sextou sem ser da equipe',	 'https://youtube.com/channel/UCKJjOf8C5-J6cdRowfXHu-Q',	'0xFFC30085'],
 			['Time da Psych Engine'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',					'https://twitter.com/Shadow_Mario_',	'0xFFFFDD33'],
 			['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',				'https://twitter.com/river_oaken',		'0xFFC30085'],
@@ -60,7 +60,7 @@ class CreditsState extends MusicBeatState
 			['SandPlanet',			'sandplanet',		'Mascot\'s Owner\nMain Supporter of the Engine',		'https://twitter.com/SandPlanetNG',	'0xFFD10616'],
 			['bubba',				'bubba',		'Guest Composer for "Hot Dilf"',	'https://www.youtube.com/channel/UCxQTnLmv0OAS63yzk9pVfaw',	'0xFF61536A'],
 			[''],
-			["Os cara do Friday Night Funkin'"],
+			["Funkin' Crew"],
 			['ninjamuffin99',		'ninjamuffin99',	"Programmer of Friday Night Funkin'",				'https://twitter.com/ninja_muffin99',	'0xFFF73838'],
 			['PhantomArcade',		'phantomarcade',	"Animator of Friday Night Funkin'",					'https://twitter.com/PhantomArcade3K',	'0xFFFFBB1B'],
 			['evilsk8r',			'evilsk8r',			"Artist of Friday Night Funkin'",					'https://twitter.com/evilsk8r',			'0xFF53E52C'],
